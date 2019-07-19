@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Azulvergas">#0A0A2A</color>
+    <color name="Crustar63">#A9A9F5</color>
+    <color name="Azulbajo">#A9E2F3</color>
+    <color name="Blancarosa">#FFFFFF</color>
+    <color name="Negromialma">#000000</color>
+    <color name="VerdeBodo">#04B404</color>
+    <color name="Azulito">#045FB4</color>
+    <color name="AzulEduardo">#A9D0F5</color>
+    <color name="color2Btn">#FFFFFF</color>
+    <color name="color4Btn">#F2F5A9</color>
+    <color name="color8Btn">#D0F5A9</color>
+    <color name="color16Btn">#A9F5A9</color>
+    <color name="color32Btn">#A9F5D0</color>
+    <color name="color64Btn">#A9F5F2</color>
+    <color name="color128Btn">#A9D0F5</color>
+    <color name="color256Btn">#A9BCF5</color>
+    <color name="color512Btn">#D0A9F5</color>
+    <color name="color1024Btn">#F5A9F2</color>
+    <color name="color2048Btn">#A9A9F5</color>
+</resources>
